@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate javascript developer wcurrently working on MERN stack + zustand  sneakers ecommerce application. While also trying to strengthen my backend skills.
+I'm a passionate javascript developer currently working on MERN stack + zustand  sneakers ecommerce application. While also trying to strengthen my backend skills.
 
 
 ## 🌐 Socials:
