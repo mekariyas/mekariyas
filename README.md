@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate javascript developer with multiple projects to show case what I have learned and also to strengthen my resume. I am always trying to deepen my understnading when it comes to my current tech stack or trying to learn something new about another. 
+I'm a passionate javascript developer with multiple projects to show case what I have learned and also to strengthen my resume. I am always trying to deepen my understanding when it comes to my current tech stack or trying to learn something new about another. 
 
 
 ## 🌐 Socials:
